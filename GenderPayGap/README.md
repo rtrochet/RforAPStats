@@ -1,6 +1,6 @@
-#Median Annual Earnings and Earnings Ratio for Full-Time, Year-Round Workers, by State and Gender, 2015
+# Median Annual Earnings and Earnings Ratio for Full-Time, Year-Round Workers, by State and Gender, 2015
 
-##State-level data
+## State-level data
 A pay gap can also be calculated for each state (Figure 2). The American Community Survey (ACS) (www.census.gov/acs) is a detailed annual survey distributed to a broad sample of U.S. households, and it supplements the U.S. census of all Americans, which only occurs once per decade. The ACS is often used (including in this report) to estimate more detailed analyses of subpopulations and geographical areas, such as the pay gap at the state level and for smaller racial/ethnic groups (e.g., Native Hawaiian and other Paci c Islander and American Indian and Alaska Native workers) because it includes more households—approximately 3 million per year, compared with the 100,000 surveyed in the CPS (U.S. Census Bureau, 2016a). The ACS results are released annually in September, and briefs based on the sur- vey can be found on the Census Bureau’s website. According to ACS data, in 2015 the pay gap was smallest in New York, where women were paid 89 percent of what men were paid, and largest in Wyoming, where women were paid 64 percent of what men were paid (Figure 2).
 
 Note: National data include workers ages 15 and older and are based on the Current Population Survey. State-level statistics include workers ages 16 and older and are based on the American Community Survey. See page 6 for more details on these data sources.
